@@ -1,0 +1,1 @@
+export { heroesSlice } from './heroesSlice';
